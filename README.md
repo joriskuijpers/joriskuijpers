@@ -1,10 +1,7 @@
-### Hi there 👋
+# Hi 👋, I'm Joris Kuijpers
+### A passionate full-stack web developer from The Nederlands, currently working as a DevOps Specialist @ ASML
 
-<h1 align="center">Hi 👋, I'm Joris Kuijpers</h1>
-<h3 align="center">A passionate full-stack web developer from The Nederlands, currently working as a DevOps Specialist @ ASML</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjhamkuijpers&label=Profile%20views&color=0075ff&style=flat" alt="jjhamkuijpers" /> </p>
-
+<img src="https://komarev.com/ghpvc/?username=jjhamkuijpers&label=Profile%20views&color=0075ff&style=flat" alt="jjhamkuijpers" />
 
 - 💬 Ask me about **InertiaJS, Laravel, PHP, Docker, K8s, CI/CD, Scripting**
 
