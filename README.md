@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Joris Kuijpers
 
 <p>
-  <a href="https://github.com/sponsors/danharrin">
+  <a href="https://github.com/sponsors/jjhamkuijpers">
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=FF69B4">
   </a>
 </p>
