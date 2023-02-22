@@ -1,4 +1,4 @@
-![profile-header](https://user-images.githubusercontent.com/7311629/220585701-0fcebea7-972d-4ab7-b240-4d5c7b3ced3f.jpg)
+<img src="https://user-images.githubusercontent.com/7311629/220585701-0fcebea7-972d-4ab7-b240-4d5c7b3ced3f.jpg" style="border-radius: 10px; margin-left:auto; margin-right:auto;width: 50%;"/>
 
 ## DevOps Specialist
 
