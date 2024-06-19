@@ -14,3 +14,5 @@ Experienced in setting up, managing, consulting and teaching within an Enterpise
 - 🧪 developing, testing and maintaining 
 - ☁️ cloud-based solutions
 - 🔥 accelerating via AI
+
+Focused on improving the software developer experience.
