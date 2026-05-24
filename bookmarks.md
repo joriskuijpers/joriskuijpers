@@ -9,7 +9,7 @@
 ## Developer CLIs and utilities
 
 - [Speckit](https://github.com/jmanhype/speckit): Toolkit for specification-driven development workflows
-- Caveman: Lightweight CLI for minimal developer workflows
+- [Caveman](https://github.com/JuliusBrussee/caveman): Token-efficient Claude Code skill/CLI for concise dev workflows
 
 ## Source control and DevOps platforms
 
